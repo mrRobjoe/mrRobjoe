@@ -12,5 +12,5 @@ I'm an enthusiast in technology, development and also i'm an Informatic Engineer
 
 #### Where to find me
 
-- [Linkedin](https://www.linkedin.com/in/joharie-enr%C3%ADquez/)
+- [Linkedin](https://www.linkedin.com/in/joharie-enr%C3%ADquez/) 💼
 
