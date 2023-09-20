@@ -3,7 +3,7 @@
 <!--
 **mrRobjoe/mrRobjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm an enthusiast in technology, development and also i'm a Informatic Engineering student with a great willingness to learn new things all the time.
+I'm an enthusiast in technology, development and also i'm an Informatic Engineering student with a great willingness to learn new things all the time.
 
 #### Where to find me
 
