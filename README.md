@@ -3,7 +3,9 @@
 <!--
 **mrRobjoe/mrRobjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![Banner](https://github.com/mrRobjoe/mrRobjoe/blob/main/JoharieEnriquez.png?raw=true)
+<img src="https://github.com/mrRobjoe/mrRobjoe/blob/main/JoharieEnriquez.png?raw=true" alt="miBanner" style="Position: center;">
+
+<!--![Banner](https://github.com/mrRobjoe/mrRobjoe/blob/main/JoharieEnriquez.png?raw=true)-->
 
 I'm an enthusiast in technology, development and also i'm an Informatic Engineering student with a great willingness to learn new things all the time.
 
