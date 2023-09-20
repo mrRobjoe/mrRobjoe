@@ -1,4 +1,4 @@
-###👋 Hi there, my name is Joharie Enriquez
+# 👋 Hi there, my name is Joharie Enriquez
 
 <!--
 **mrRobjoe/mrRobjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
