@@ -3,9 +3,9 @@
 <!--
 **mrRobjoe/mrRobjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<center>
-  <img src="https://github.com/mrRobjoe/mrRobjoe/blob/main/JoharieEnriquez.png?raw=true" alt="miBanner" style="Position: center;">
-</center>
+<div style="text-align: center;">
+  <img src="https://github.com/mrRobjoe/mrRobjoe/blob/main/JoharieEnriquez.png?raw=true" alt="myBanner">
+</div>
 
 <!--![Banner](https://github.com/mrRobjoe/mrRobjoe/blob/main/JoharieEnriquez.png?raw=true)-->
 
