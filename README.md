@@ -3,7 +3,8 @@
 <!--
 **mrRobjoe/mrRobjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <div align="center">
-  <img src="https://github.com/mrRobjoe/mrRobjoe/blob/main/JoharieEnriquez.png?raw=true" alt="myBanner">
+ <!-- <img src="https://github.com/mrRobjoe/mrRobjoe/blob/main/JoharieEnriquez.png?raw=true" alt="myBanner"> -->
+  <img width="600" height="200" alt="Joharie_Enriquez" src="https://github.com/user-attachments/assets/7c468950-87f2-4ab0-a5e7-a46e4274b892" />
 </div>
 
 <!--![Banner](https://github.com/mrRobjoe/mrRobjoe/blob/main/JoharieEnriquez.png?raw=true)-->
